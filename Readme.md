@@ -1,4 +1,6 @@
-# Siji
+# Siji 
+
+## Modified - Changes are reflected in preview
 
 Siji is an iconic bitmap font based on the Stlarch font with additional glyphs.
 
